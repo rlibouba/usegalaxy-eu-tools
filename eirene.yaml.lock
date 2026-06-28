@@ -574,6 +574,7 @@ tools:
 - name: bioconductor_mzr
   owner: recetox
   revisions:
+  - 27793114c209
   - 42e59b8e9e0b
   tool_panel_section_label: Metabolomics
 - name: bioconductor_msnbase_centroid
@@ -584,6 +585,7 @@ tools:
 - name: aoptk_chemical_identifier
   owner: recetox
   revisions:
+  - 1453d8691711
   - 5668e27d0684
   - ce0420edec0f
   tool_panel_section_label: Machine Learning
@@ -592,6 +594,7 @@ tools:
   revisions:
   - 0f01dc62c4f3
   - 98893ab7309f
+  - d64165c2b96b
   tool_panel_section_label: Machine Learning
 - name: mzspeclib_convert
   owner: recetox

@@ -2148,6 +2148,7 @@ tools:
   revisions:
   - 8d8c71fba071
   - 9f7b3250a2fe
+  - d4336b333dac
   tool_panel_section_label: Astronomy
 - name: bedtools
   owner: iuc
@@ -3013,6 +3014,7 @@ tools:
   - 65b93b623c77
   - 6c2351178f8d
   - 8276962186f2
+  - 8b1ff0343492
   - 988729b728f0
   - a626e8c0e1ba
   - a935cbdf1c0e
@@ -3995,6 +3997,7 @@ tools:
   - 95be88b49f4e
   - a3395b1d871b
   - a6a475ed58cb
+  - a7c1dc5207da
   - b2ae7186d41f
   - bc18e25d4204
   - c28c9cdf3660
@@ -5475,11 +5478,13 @@ tools:
   owner: iuc
   revisions:
   - 1832b854f0ae
+  - 4d2038a99775
   - 92763a040deb
   tool_panel_section_label: Metagenomic Analysis
 - name: kaiju_kaiju2table
   owner: iuc
   revisions:
+  - 3fe88629e18d
   - e7d2c4ed18a5
   - eedcb4cc9e5a
   tool_panel_section_label: Metagenomic Analysis
@@ -5487,18 +5492,21 @@ tools:
   owner: iuc
   revisions:
   - 360618c7e37d
+  - b48d20647c74
   - b5092138ab0d
   tool_panel_section_label: Metagenomic Analysis
 - name: kaiju_mergeoutputs
   owner: iuc
   revisions:
   - 01585d091036
+  - 72dc6be28a5f
   - cdc8a98ed4fc
   tool_panel_section_label: Metagenomic Analysis
 - name: kaiju_kaiju
   owner: iuc
   revisions:
   - 403401167d98
+  - 72f3ef4a96e0
   - c020a41566fd
   tool_panel_section_label: Metagenomic Analysis
 - name: kegg_pathways_completeness
@@ -9044,6 +9052,7 @@ tools:
   owner: bgruening
   revisions:
   - 0cdcf7e99b62
+  - 10fc1d5850a8
   - 1196fc76fdc2
   - 15c0c0d90c3f
   - 20d92dc4c6cb
@@ -9197,6 +9206,7 @@ tools:
   - 025139097795
   - 0f1c34698076
   - 2a9afed42353
+  - 3d8c0b287c51
   - 4c172a4a4c9e
   - 640e4eeab4e2
   - 645159bcee2d
@@ -12233,6 +12243,7 @@ tools:
   - 7e014059a88d
   - a4b734cd253b
   - c4f39bf4a068
+  - d2755d6016ca
   - d4646ce659b4
   - f911a64454fb
   tool_panel_section_label: Single-cell
@@ -12245,6 +12256,7 @@ tools:
   - 7608d5faee41
   - 8b917923f7d4
   - 8dc8ff057b0f
+  - b9712ed9c027
   - bb9a4270e288
   - c891d8b33ede
   - d45f092caf24
@@ -12254,6 +12266,7 @@ tools:
   owner: iuc
   revisions:
   - 0fa80752a314
+  - 22c726451b40
   - 25a519a368a4
   - 2b0d3e2f402a
   - 37a47c4fd84d
@@ -12267,6 +12280,7 @@ tools:
   revisions:
   - 3478133d0f6f
   - 4164c0da0a5d
+  - 42a08854eb66
   - 69018f285aa3
   - 6e90c8adf84f
   - 9606d2385547
@@ -12277,6 +12291,7 @@ tools:
 - name: raceid_trajectory
   owner: iuc
   revisions:
+  - 2581f709c447
   - 2bfd55b87af3
   - 44b935f2271b
   - 72979cac22b2
@@ -12637,30 +12652,36 @@ tools:
   owner: iuc
   revisions:
   - 2b4c00803eb4
+  - 89635206a199
   tool_panel_section_label: Single-cell
 - name: liana_misty
   owner: iuc
   revisions:
+  - 6466390eac09
   - de261b37af8c
   tool_panel_section_label: Single-cell
 - name: liana_multi
   owner: iuc
   revisions:
   - 03a038f2b90e
+  - 763dfad22665
   tool_panel_section_label: Single-cell
 - name: liana_plot
   owner: iuc
   revisions:
+  - 1ffc708d7a5e
   - 8b9b8d358883
   tool_panel_section_label: Single-cell
 - name: liana_resource
   owner: iuc
   revisions:
   - d4e40e802b8c
+  - ed517181d576
   tool_panel_section_label: Single-cell
 - name: liana_utils
   owner: iuc
   revisions:
+  - 5bd0e9b7addf
   - 6d832bf56558
   tool_panel_section_label: Single-cell
 - name: best_regression_subsets
@@ -12872,6 +12893,7 @@ tools:
 - name: jq
   owner: iuc
   revisions:
+  - 4e62e523c2b6
   - 5ff75eb1a893
   - 8c505f8f2977
   tool_panel_section_label: Text Manipulation
@@ -14196,6 +14218,7 @@ tools:
 - name: vcfanno
   owner: iuc
   revisions:
+  - 2c526639f63c
   - 4f3c5e634679
   - 7b2ee758de86
   - c192a2c7ef00
