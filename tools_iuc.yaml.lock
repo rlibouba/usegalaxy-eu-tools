@@ -2352,6 +2352,7 @@ tools:
   owner: iuc
   revisions:
   - 402faa5eab62
+  - 4f831247b7ae
   - 7bc130112fa3
   - 917339196fdf
   - bebf7360eb55
@@ -10897,6 +10898,7 @@ tools:
   - 8fe98f7094de
   - 9a882d108833
   - a6fc9228e1a0
+  - b060944b3989
   - cd9874cb9019
   - d027d1f4984e
   - d983d19fbbab
@@ -11314,6 +11316,7 @@ tools:
 - name: tsenat
   owner: iuc
   revisions:
+  - 2ead6d1194e6
   - efbf859ddd70
   tool_panel_section_label: RNA Analysis
 - name: transdecoder
@@ -12698,6 +12701,7 @@ tools:
 - name: clustering_from_distmat
   owner: iuc
   revisions:
+  - 10abfe22d9c6
   - 8192b416f945
   - c0b01c55a0e0
   - f8ee933de3ca
