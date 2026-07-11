@@ -1093,6 +1093,7 @@ tools:
 - name: panaroo
   owner: galaxy-australia
   revisions:
+  - 090613e9a1c8
   - 3dc21aa05ec3
   - 698faba7eaf9
   - c68a35962d6e
@@ -2513,11 +2514,13 @@ tools:
   revisions:
   - 3eb53ac7fb0e
   - 55d01781ffea
+  - 9dd2441ce41a
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_pcr
   owner: iuc
   revisions:
   - 17bd2c9f1671
+  - 90e648faaec1
   - a72c4cc8a704
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_refidx
@@ -2525,22 +2528,26 @@ tools:
   revisions:
   - 189cdb4ff7c2
   - 61f9122bb420
+  - d20729134e3c
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_tag
   owner: iuc
   revisions:
   - 783ecd0c80fe
+  - a733ced76ef5
   - fa01b4b07289
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_taxonomy
   owner: iuc
   revisions:
   - 2073dc7c0c0c
+  - 45d9811d5b74
   - 9eb7ba86e367
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_pairing
   owner: iuc
   revisions:
+  - 3dcc3f33da39
   - 704f9a5e5c91
   - 78598ed1b8a8
   - 82385545ce58
@@ -2553,6 +2560,7 @@ tools:
   - 2ede910f04e1
   - 569eacd3be7b
   - a0169bbe7c7f
+  - c575c8dba2ab
   - e26301f69e43
   - f288c404742b
   tool_panel_section_label: DNA Metabarcoding
@@ -2573,12 +2581,14 @@ tools:
   - 3ac96c352a3d
   - 4da9a24971bd
   - 6c19e0d33cf6
+  - aff454cfd79e
   - c96ce8ed191c
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_grep
   owner: iuc
   revisions:
   - 7e68109625a3
+  - 879f44536e12
   - 98bec443b342
   - be475ac055b2
   - d16990a72638
@@ -2588,6 +2598,7 @@ tools:
   owner: iuc
   revisions:
   - 3cd66db293f6
+  - 53b5bd9a08a1
   - 9eded74a3d03
   - c89bb0ef8f25
   - cb91d030d8ba
@@ -2599,12 +2610,14 @@ tools:
   - 1beb31209adb
   - 656858ba54ea
   - 6fa6df09d606
+  - 8fe2ec05a876
   - 9c6619b29650
   - f5e899be558b
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_convert
   owner: iuc
   revisions:
+  - 12c00cef6985
   - 618fa454e51a
   - a86cb55cba33
   - ce363293cb55
@@ -3013,6 +3026,7 @@ tools:
   - 4557b2da9e7f
   - 480ddbd12a03
   - 65b93b623c77
+  - 68386e630362
   - 6c2351178f8d
   - 8276962186f2
   - 8b1ff0343492
@@ -4008,6 +4022,7 @@ tools:
   - d951c5b0edd1
   - da8260eba74b
   - f0872b88c5fc
+  - fd848bb708de
   tool_panel_section_label: Get Data
 - name: pysradb_search
   owner: iuc
@@ -5273,6 +5288,7 @@ tools:
   revisions:
   - 0e8330535ea0
   - 2595c27071c2
+  - 69b5fa6480ff
   - 6fe0fdd63a67
   - 7da532cd050c
   - 8fbd98f37c10
@@ -5297,6 +5313,7 @@ tools:
 - name: lexicmap
   owner: iuc
   revisions:
+  - bcb6caec41eb
   - c778ef8a7806
   - f0e5afff062b
   tool_panel_section_label: Mapping
@@ -5342,6 +5359,7 @@ tools:
 - name: pbmm2
   owner: iuc
   revisions:
+  - 2b7554fe07a6
   - 4436bcb33d39
   - 55b7b257e12f
   - 7100ed4a31a2
@@ -6203,6 +6221,7 @@ tools:
   - 7c2100246a2f
   - 9f306361a58e
   - ce4bfce70e64
+  - e0aea8e800d7
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_dada
   owner: iuc
@@ -6215,6 +6234,7 @@ tools:
   - 6b4ddc3b64bd
   - 84fd33a60b35
   - 89d11e95a9b1
+  - 9010b9e13dec
   - 96336c6a2bb7
   - b35a5e8ff0fe
   - b762f4d54f78
@@ -6237,12 +6257,14 @@ tools:
   - e8768ddeba32
   - e8fba04706d3
   - f732237754fc
+  - f8b8c95bff89
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_learnerrors
   owner: iuc
   revisions:
   - 04c15826a0b8
   - 0776d824d896
+  - 1fb4fc5e64d6
   - 39638e0aff59
   - 4bba91a89457
   - 5fe3edf19b9c
@@ -6269,6 +6291,7 @@ tools:
   - 9ccec6ed8e82
   - aab8af79110e
   - bfd62e881837
+  - d49e0de76bf5
   - e96bbb9e24ea
   - ebd632e95aae
   tool_panel_section_label: Metagenomic Analysis
@@ -6277,6 +6300,7 @@ tools:
   revisions:
   - 0b884b080bb6
   - 1d75bd0595e2
+  - 2495262244bd
   - 273b8a00c8a2
   - 306a40d4bb8f
   - 35176674168c
@@ -6303,6 +6327,7 @@ tools:
   - 78faebd0879c
   - 806fe614ca46
   - 8daf4564ccda
+  - aae21f831e95
   - ab2030f217a9
   - ac72310b038a
   tool_panel_section_label: Metagenomic Analysis
@@ -6318,6 +6343,7 @@ tools:
   - a204f3983d22
   - a58e4a43f49c
   - cae017b76acb
+  - d000854331fe
   - d60df8727f59
   - e7c2674e01fe
   - f947b4bb5107
@@ -6337,6 +6363,7 @@ tools:
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
+  - a6ceb91124fa
   - b6dddf8c2e6f
   - efe26de231ec
   tool_panel_section_label: Metagenomic Analysis
@@ -6350,6 +6377,7 @@ tools:
   - 390bc2645138
   - 4cc834cce4fb
   - 7d28da5e9e27
+  - 86d6d6cda803
   - 9058d8943303
   - 9180d536e20d
   - a7817705348e
@@ -6361,6 +6389,7 @@ tools:
   owner: iuc
   revisions:
   - 00b8932e286e
+  - 40ae76a60028
   - 506ce55ba922
   - 74ec28dbdf17
   - 7dfcb39313d4
@@ -6412,6 +6441,7 @@ tools:
   - 9902c85117a4
   - c2f471480624
   - d99788b71ce7
+  - e5dc009367ef
   - ef1c257adcbd
   - f0334664a47b
   - ffeabd4e2c1b
@@ -6422,6 +6452,7 @@ tools:
   - 1faea6e8c92b
   - 368cb4bef9d8
   - 76b57044069d
+  - 8165eab19456
   - 81ada02ffe46
   - 8dfcdbeaeed8
   - a0713a10c9f6
@@ -12055,16 +12086,19 @@ tools:
   revisions:
   - 1f6c780a2635
   - 9807b49770c4
+  - aceae6f67857
   tool_panel_section_label: Spatial Omics
 - name: spatialdata_operation
   owner: iuc
   revisions:
+  - 0d3296677452
   - 2adfc39ffbac
   - c9077cc6c532
   tool_panel_section_label: Spatial Omics
 - name: spatialdata_plot
   owner: iuc
   revisions:
+  - a9c99d2d3063
   - bc396bd25374
   - c5928c28e2f0
   tool_panel_section_label: Spatial Omics
@@ -14875,6 +14909,7 @@ tools:
 - name: data_manager_samestr
   owner: iuc
   revisions:
+  - 405af1001762
   - e8873a70f416
   - f654a4a8a612
 - name: data_manager_selection_background
