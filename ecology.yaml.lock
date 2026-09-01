@@ -213,7 +213,6 @@ tools:
   - 02026300aa45
   - 13b6f0007d9e
   - 464b9305180e
-  - 61f9ddbc63ca
   - 6595517c2dd8
   - 6e8d94597139
   - 9bc5cdefb090
@@ -342,7 +341,6 @@ tools:
 - name: column_remove_by_header
   owner: iuc
   revisions:
-  - 2040e4c2750a
   - 372967836e98
   - 6428adb323eb
   tool_panel_section_label: Text Manipulation
@@ -1802,7 +1800,6 @@ tools:
   - '310676858178'
   - 3cf052628373
   - 809f339deae2
-  - 9777101cccbc
   - e938172541c4
   tool_panel_section_label: Computer Vision
 - name: ssrfilter
