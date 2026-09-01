@@ -437,7 +437,6 @@ tools:
   revisions:
   - 4e0975c50db5
   - 520448a32548
-  - 8b8d360316c3
   tool_panel_section_label: Metabolomics
 - name: xcms_plot_eic
   owner: workflow4metabolomics
@@ -592,23 +591,15 @@ tools:
   owner: recetox
   revisions:
   - 105249a04eed
-  - 1453d8691711
-  - 2a70369a2662
   - 5668e27d0684
-  - a27ab4853c86
-  - ce0420edec0f
   - eae0c93af4a6
   tool_panel_section_label: Machine Learning
 - name: aoptk_publication_tracker
   owner: recetox
   revisions:
   - 0f01dc62c4f3
-  - 46163ab443e7
   - 70d1a4736ecb
   - 93711c040c16
-  - 98893ab7309f
-  - aef4580396dc
-  - d64165c2b96b
   tool_panel_section_label: Machine Learning
 - name: mzspeclib_convert
   owner: recetox
