@@ -83,6 +83,7 @@ tools:
   owner: bgruening
   revisions:
   - 4926706c13db
+  - 4b5f897760d4
   - 5ad32046903b
   - f6fa7e70120f
   tool_panel_section_label: Convert Formats
@@ -1108,6 +1109,7 @@ tools:
   revisions:
   - 17a8d7cc176b
   - 1da5c7994686
+  - bcaf26934b58
   tool_panel_section_label: Machine Learning
 - name: black_forest_labs_flux
   owner: bgruening
