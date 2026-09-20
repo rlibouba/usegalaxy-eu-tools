@@ -1105,6 +1105,7 @@ tools:
   - 5fc94b3a4704
   - aa1ac2f7a688
   - b66de1e9abfb
+  - c6ba8470ed01
   - e122f9101584
   - ef69617ecb42
   tool_panel_section_label: Assembly
@@ -1541,6 +1542,7 @@ tools:
   - 95219305823a
   - a6ea26c1f225
   - b6b87635cf29
+  - b7c3dcb76c02
   - b7ce99273d62
   - cf1322aeb137
   - d82648ad25a3
