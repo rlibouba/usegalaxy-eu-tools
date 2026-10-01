@@ -63,6 +63,7 @@ tools:
   owner: devteam
   revisions:
   - 427903d47026
+  - 61f9ddbc63ca
 - name: coverage
   owner: devteam
   revisions:
@@ -146,6 +147,7 @@ tools:
   - 14fa42b095c4
   - 1a9d5a8fff12
   - 6d23883e0b94
+  - 70f61a4de941
   - 80852884053f
   - a5665e1b06b0
   - d2afc87db26b
@@ -158,6 +160,7 @@ tools:
   - 04f34751dae3
   - 0f460421b212
   - 1fe020b2108f
+  - 625a129225f7
   - 7c2e71e4acf3
   - 97b467e06354
   - 999e07f0a9fa
@@ -170,6 +173,7 @@ tools:
   - 1ae5dfd5ac17
   - 1c4a241bef5c
   - 1ddf415cb349
+  - 40ff7c1f393a
   - 586e68c83df2
   - 7626ea9c2e1b
   - a36a45cb96fa
@@ -188,11 +192,13 @@ tools:
   - 913ee94945f3
   - 9160cb4069c2
   - 97dce66fe158
+  - dc66f89ba2a2
 - name: sklearn_pairwise_metrics
   owner: bgruening
   revisions:
   - 053e7f32d37e
   - 09bfbef3dd90
+  - 0a6b69524de2
   - 26ae8c074d95
   - 2a1afd3481ce
   - 7366e5108e9f
@@ -207,6 +213,7 @@ tools:
   - 34d31bd995e9
   - 39ae3c043096
   - 4db563e8d453
+  - 7f21c9e5656d
   - 823ecc0bce45
   - 8b1b2b91f8d0
   - d33d37f32e54
@@ -220,6 +227,7 @@ tools:
   - 8eed73e8e04d
   - abb5a3f256e3
   - aeca97d9a214
+  - dcbfe6ed593b
   - e10e776f2109
   - e13a7c05b3a4
   - e7f047a9dca9
@@ -229,6 +237,7 @@ tools:
   - 0087d6db4290
   - 060ca94ac049
   - 1682df52c084
+  - 2268fa04320d
   - 315f01a9d2c2
   - 3ab7af14f1b5
   - 407495139a09
@@ -242,6 +251,7 @@ tools:
   - 46b43ee6d367
   - 5276bdb49315
   - 5773e98921fc
+  - 83b406104228
   - 96bb4c49e30e
   - a7c667ff83fe
   - ae0fafb53c1d
@@ -256,6 +266,7 @@ tools:
   - 761269451e98
   - 826c3e68e7a9
   - 9e43ee712723
+  - a432f7a41307
   - a5c2ce4ea328
   - add3c3a7c2b4
   - b75cae00f980
@@ -265,6 +276,7 @@ tools:
   - 15bcf1a7543b
   - 25cc25ea10b8
   - 40e31fb88836
+  - 4cae0397fcdb
   - 55703205546f
   - 6ffedbe712c0
   - 9bf11bbeccc3
@@ -280,6 +292,7 @@ tools:
   - 627be0156505
   - 6db5c1dfb076
   - 70c5a9127f99
+  - 9c8344681465
   - 9c8ede554b7c
   - b4ebe47701e4
   - f5dcb87fd14e
@@ -288,6 +301,7 @@ tools:
   revisions:
   - 1bd039aca44f
   - 237ae72d58a3
+  - 385a9ac83d56
   - 420a4bf99244
   - 5552eda109bd
   - 6adef419e041
@@ -307,6 +321,7 @@ tools:
   - c648d0716fb0
   - c9969328b42f
   - d4808d5b83da
+  - ddd7fc59ba59
 - name: sklearn_model_validation
   owner: bgruening
   revisions:
@@ -315,6 +330,7 @@ tools:
   - 4b359039f09f
   - 65f18ab91132
   - 9dc28a4b6ca8
+  - b3cafb8519f8
   - caa3995d5f23
   - cf9aa11b91c8
   - de360b57a5ab
@@ -324,6 +340,7 @@ tools:
   revisions:
   - 318484f56b6a
   - 6d1a9fae57eb
+  - 923fba89da05
   - 92e09b827300
   - 9f9cf31e3111
   - b3d80cb1ed87
@@ -678,4 +695,9 @@ tools:
 - name: sam3_semantic_segmentation
   owner: ecology
   revisions:
+  - 9777101cccbc
   - aff0214687fa
+- name: column_remove_by_header
+  owner: iuc
+  revisions:
+  - 2040e4c2750a
