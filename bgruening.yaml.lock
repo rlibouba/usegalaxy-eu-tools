@@ -1293,6 +1293,7 @@ tools:
   owner: bgruening
   revisions:
   - 22847889f95e
+  - 27a102c1f443
   tool_panel_section_label: Metagenomic Analysis
 - name: mafft
   owner: rnateam
