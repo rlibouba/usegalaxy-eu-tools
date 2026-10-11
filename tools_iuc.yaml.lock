@@ -2232,6 +2232,7 @@ tools:
   - b28e0cfa7ba1
   - b8348686a0b9
   - ce3c7f062223
+  - d57471728f7b
   - db1841942d2b
   - dde39ba9c031
   - e19bebe96cd2
@@ -2482,6 +2483,7 @@ tools:
 - name: tooldistillator
   owner: iuc
   revisions:
+  - 4ac5179f245c
   - 65a69de1e294
   - 66617be450bd
   - 6c56786c9d1a
@@ -2503,6 +2505,7 @@ tools:
   - 07d093aaf3b4
   - 24eec94e6dfc
   - 30a8447539e4
+  - 3a66889baf43
   - 3d0223265277
   - 6ff67d2860e1
   - 95a71120949f
@@ -5421,6 +5424,7 @@ tools:
   - 2595c27071c2
   - 69b5fa6480ff
   - 6fe0fdd63a67
+  - 7c5b53cd2997
   - 7da532cd050c
   - 8638fee69580
   - 8fbd98f37c10
@@ -7885,6 +7889,7 @@ tools:
   - 6240e5015f93
   - 9c23008e7345
   - b6fa25b6b436
+  - e7bd625dfaa6
   - ee4041c922c8
   tool_panel_section_label: Metagenomic Analysis
 - name: mothur_align_check
@@ -11370,6 +11375,7 @@ tools:
   - 4418229c501e
   - 8f6836089479
   - 916cb26bd9d3
+  - c5a9d57d7eb1
   - fb117b3ee99a
   tool_panel_section_label: RNA Analysis
 - name: idr
@@ -11943,6 +11949,7 @@ tools:
   owner: devteam
   revisions:
   - 04866f817daa
+  - 49be7ffc00e2
   - 4d343c1f606b
   - 887a9bf73d1a
   - 8eb649e67987
@@ -15349,6 +15356,7 @@ tools:
   - 7d83c60dd27e
   - e8873a70f416
   - f444a2898944
+  - f53963bacfd1
   - f654a4a8a612
 - name: data_manager_selection_background
   owner: iuc
