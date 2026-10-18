@@ -404,6 +404,7 @@ tools:
 - name: table_pandas_rename_column
   owner: recetox
   revisions:
+  - 63273927b45d
   - 761f8ab8fdb6
   tool_panel_section_label: Metabolomics
 - name: anova
@@ -638,6 +639,7 @@ tools:
   - 6b9816a913de
   - 6fc8bab811da
   - b0d96516e6a5
+  - bf96015d2492
   - fb50ab943396
   tool_panel_section_label: Graph/Display Data
 - name: tsne
@@ -679,6 +681,7 @@ tools:
   - 4ed102b922cb
   - 61461e52c923
   - 70f61a4de941
+  - 8797bedbba8e
   - b7c3e9a3b954
   - de94341feadb
   - df690bb42687
@@ -693,6 +696,7 @@ tools:
   - 7068b5fcd623
   - 86a086d2bbed
   - 86c5b627ddb6
+  - cb2cfcaf6ba8
   - e6af850a1675
   - e6f4d3d9058c
   - eb41d87cb1de
@@ -707,6 +711,7 @@ tools:
   - 40ff7c1f393a
   - 5023535e9f8b
   - 69c44aab684e
+  - 8eb081549c98
   - 9a01835cdead
   - c6ae57f774c6
   - e5a5ad882f1f
@@ -724,6 +729,7 @@ tools:
   - aef56d0e7a61
   - b1eda492f063
   - bc0117538945
+  - bf5b6f5a18ed
   - dc66f89ba2a2
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
@@ -732,6 +738,7 @@ tools:
   - 0a6b69524de2
   - 226524df8c6c
   - 23a37a52a899
+  - 383d5372a90d
   - 3ff43fbb7ccf
   - 5bd0866dbc7a
   - a61375e306c1
@@ -747,6 +754,7 @@ tools:
   - 187226dceb22
   - 2c58b83c9bad
   - 4cc980df6265
+  - 531513ce17a5
   - 672327583f74
   - 7ae443e6217d
   - 7f21c9e5656d
@@ -764,6 +772,7 @@ tools:
   - 4bbaf77573ef
   - 7dd3fb35904f
   - 86d4c2b66e16
+  - 88bd281cdf65
   - 981a0328d6bb
   - ad7e0b4291ee
   - bb9fc9d46ea4
@@ -777,6 +786,7 @@ tools:
   - 0dd932943362
   - 2268fa04320d
   - 360330a867f0
+  - 398c7e90ded2
   - 53616c8b0865
   - 841a6cc5fc58
   - a07ab242b0b5
@@ -793,6 +803,7 @@ tools:
   - 74adae8d7b0f
   - 83b406104228
   - 9e0e31bd8392
+  - a79e439ac817
   - dd786bc16fdb
   - e918f33f7d4f
   - fcadeadd51ae
@@ -805,6 +816,7 @@ tools:
   - 484a98c44f00
   - 6c030fe29722
   - 80074b842ebd
+  - 9452bddf21bd
   - 9ac0b78c6b6d
   - a432f7a41307
   - dde13d557dc4
@@ -823,6 +835,7 @@ tools:
   - a0061a087409
   - a7067bbf1e58
   - adc6137e7c73
+  - d0f0767072b2
   - e56721f44020
   tool_panel_section_label: Machine Learning
 - name: sklearn_regression_metrics
@@ -838,6 +851,7 @@ tools:
   - 9c8344681465
   - c78a5fc9e758
   - dc17e2878dc1
+  - f55053c4a5ec
   tool_panel_section_label: Machine Learning
 - name: sklearn_discriminant_classifier
   owner: bgruening
@@ -850,6 +864,7 @@ tools:
   - 4ee087eeda62
   - 78a60f884ac9
   - 87cb9cb44d1f
+  - b0b9245d414e
   - dea38330b78a
   - e81b336415c8
   tool_panel_section_label: Machine Learning
@@ -866,11 +881,13 @@ tools:
   - d3fe6fcc6bf4
   - dc4b5fd604a6
   - ddd7fc59ba59
+  - fd703ccdab66
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_validation
   owner: bgruening
   revisions:
   - 492d34a75de6
+  - 5a26080a4f96
   - 5d5d9cc554f9
   - 61e76fb65daf
   - 7e5631773cea
@@ -892,6 +909,7 @@ tools:
   - 602b5fb7ef09
   - 648b81bca7c5
   - 923fba89da05
+  - a1478b43a349
   - a84e6ffd3735
   - ecd247e1ea9c
   - f49aad8f79ea
@@ -2008,6 +2026,7 @@ tools:
   - a97a73f95025
   - cd9b7f57a163
   - d1df7aca2497
+  - f6a04c76d296
   tool_panel_section_label: Population Genomics
 - name: lea_snmf_application
   owner: ecology
