@@ -90,6 +90,18 @@ tools:
     owner: bgruening
     tool_panel_section_label: Annotation
 
+  - name: kat_hist
+    owner: bgruening
+    tool_panel_section_label: Annotation
+
+  - name: kat_gcp
+    owner: bgruening
+    tool_panel_section_label: Annotation
+
+  - name: kat_comp
+    owner: bgruening
+    tool_panel_section_label: Annotation
+
   - name: kat_sect
     owner: bgruening
     tool_panel_section_label: Annotation
@@ -612,6 +624,10 @@ tools:
     tool_panel_section_label: Nanopore
 
 # OTHER TOOLS
+
+  - name: 3dtrees_forestmamba
+    owner: bgruening
+    tool_panel_section_label: Other Tools
 
   - name: 3dtrees_metadata
     owner: bgruening
