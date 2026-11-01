@@ -29,6 +29,7 @@ tools:
 - name: sra_tools
   owner: iuc
   revisions:
+  - 8848455c0270
   - de0f7e0a3896
   - fb723c531be5
 - name: split_file_on_column
@@ -43,6 +44,7 @@ tools:
   owner: iuc
   revisions:
   - 071084070619
+  - 3ddd99c7efee
   - 58228a4d58fe
 - name: bam_to_scidx
   owner: iuc
@@ -71,6 +73,7 @@ tools:
   - 3235aeb45c22
   - 69c5e9c0add0
   - 8774b28235bb
+  - a6e57ff585c0
   - d0743cb18ed8
 - name: meme_meme
   owner: iuc
@@ -81,6 +84,7 @@ tools:
   owner: iuc
   revisions:
   - 0c5239d1aa65
+  - 613c75eee7bd
 - name: vegan_diversity
   owner: iuc
   revisions:
@@ -171,8 +175,10 @@ tools:
   - 4014de1b6daf
   - 41929aa1e7f3
   - 44959aa06aeb
+  - 55c9ac3aa8f4
   - 850f3679b9b4
   - d82339e37e8e
+  - d8d32326fbfb
 - name: hisat2
   owner: iuc
   revisions:
@@ -182,6 +188,7 @@ tools:
   revisions:
   - 6f91b8ce6e07
   - 71bacea10eee
+  - ccc6c4f0236f
   - de44f8eff84a
   - e5c8afac22a7
 - name: salmon
@@ -206,6 +213,7 @@ tools:
 - name: dexseq
   owner: iuc
   revisions:
+  - 74ec758e63a4
   - 9fd8b69e6e68
 - name: cuffdiff
   owner: devteam
@@ -223,6 +231,7 @@ tools:
   owner: iuc
   revisions:
   - 6d4babad010f
+  - 86e2413cf3f8
 - name: macs
   owner: devteam
   revisions:
@@ -335,28 +344,33 @@ tools:
   revisions:
   - 496124e09f82
   - bc8b01d1b496
+  - c2a413e47fe9
 - name: gemini_windower
   owner: iuc
   revisions:
   - 3b5b1ebc8423
+  - 406d3552beca
   - c15b615cdc3b
 - name: gemini_burden
   owner: iuc
   revisions:
   - 12112e6e5ea4
   - 699ce2631e79
+  - f0bf88e9e689
 - name: gemini_gene_wise
   owner: iuc
   revisions:
   - 4b26f6c99227
   - 4f55668547fc
   - 99d6e7b1b7f1
+  - e57a1b0ac6be
 - name: gemini_stats
   owner: iuc
   revisions:
   - 73b103195e2a
   - 86d4303cc3ca
   - ac761838cdaf
+  - b92cfa44f5be
 - name: gemini_mendel_errors
   owner: iuc
   revisions:
@@ -364,12 +378,14 @@ tools:
 - name: gemini_amend
   owner: iuc
   revisions:
+  - 334e946cacd4
   - b8b120a4cef7
   - bff8fad3fb69
 - name: gemini_pathways
   owner: iuc
   revisions:
   - 66bc68095012
+  - 9551b3da9f5d
   - c63b7eefb07a
   - d5ec6384a3be
 - name: gemini_dump
@@ -384,16 +400,19 @@ tools:
   owner: iuc
   revisions:
   - 643a9ad97f08
+  - db47f4939381
   - f62ed0e84665
 - name: gemini_lof_sieve
   owner: iuc
   revisions:
   - 295814260d95
+  - 4b5123d51e8c
   - be7ac09bc2fa
   - dda378a72430
 - name: gemini_query
   owner: iuc
   revisions:
+  - 77a1e60fd1de
   - ab195e756e5e
   - cd00221d67cb
 - name: gemini_fusions
@@ -402,15 +421,18 @@ tools:
   - 6e3d2bd01a96
   - 8295781a3c27
   - 8a68d9a33023
+  - c00dcd1455a0
 - name: gemini_load
   owner: iuc
   revisions:
+  - 2270a8b83c12
   - 269c40fdcccb
   - 64132aa2d62a
 - name: gemini_annotate
   owner: iuc
   revisions:
   - 567837ca5f33
+  - cf0f0f05ba9f
 - name: gemini_recessive_and_dominant
   owner: iuc
   revisions:
@@ -421,16 +443,19 @@ tools:
   - 60f477e3c79b
   - 91b4db3e6df4
   - d65ca2fa673b
+  - e8349da26ed5
 - name: gemini_set_somatic
   owner: iuc
   revisions:
   - 230c975e7759
   - 3208dd1dbfe2
+  - 7814e39409d1
   - '991049484627'
 - name: gemini_qc
   owner: iuc
   revisions:
   - 137a3e07062e
+  - 20f2ecf46dcb
   - 8414eecc3828
   - a875f940d8fd
 - name: gemini_interactions
@@ -439,6 +464,7 @@ tools:
   - 527c8e4a356f
   - 7028ca3cac1c
   - ce6db5020339
+  - f745f54638e5
 - name: stacks_sstacks
   owner: iuc
   revisions:
@@ -450,12 +476,14 @@ tools:
   - 00f4a4e553ae
   - 46f061f3cfeb
   - 5af94af9ec8f
+  - 62a4b8e5e139
 - name: stacks_denovomap
   owner: iuc
   revisions:
   - 2b1dd7ab69f7
   - 9f9d39f582f3
   - eb1e95f88e96
+  - fdbcc560c691
 - name: stacks_ustacks
   owner: iuc
   revisions:
@@ -466,6 +494,7 @@ tools:
   owner: iuc
   revisions:
   - 0c741f364d18
+  - 38ecfb8d52c6
   - 6eaf0f9836c8
   - b08cd32d03ad
 - name: stacks_procrad
@@ -474,15 +503,18 @@ tools:
   - 57910d476be9
   - 8fe258d72ff3
   - be78e39d56b3
+  - eded025438db
 - name: stacks_refmap
   owner: iuc
   revisions:
   - 1ba1185929c1
   - 4ee074ca88fb
   - 7c42e6768c41
+  - d7a482f44e08
 - name: stacks_cstacks
   owner: iuc
   revisions:
+  - 40cde06ae34a
   - be3df81c0353
   - dab92afa0c98
 - name: stacks_rxstacks
@@ -490,6 +522,7 @@ tools:
   revisions:
   - 2360d8cf42f7
   - 3e43e51b3c3b
+  - 8479d9a67998
   - 9d0ac63dcfcd
 - name: stacks_pstacks
   owner: iuc
@@ -502,3 +535,7 @@ tools:
   revisions:
   - 359232b58f6a
   - cc91d730cc4f
+- name: stacks_populations
+  owner: iuc
+  revisions:
+  - d1fad35bdb4a

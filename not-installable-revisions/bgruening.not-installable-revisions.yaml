@@ -61,6 +61,7 @@ tools:
   - 72985f2dd91c
   - b4dafa5a9e51
   - ce7a96be8cb6
+  - f1e5a9dd6baa
   - fa068d13e781
 - name: imagemagick_image_montage
   owner: bgruening
@@ -70,6 +71,7 @@ tools:
   owner: bgruening
   revisions:
   - 0a7f2b9e1fcb
+  - 0b2a2554f946
   - 0dc3027df8f4
   - 33d8be959bf3
   - 3814a92c1416
@@ -95,6 +97,7 @@ tools:
   - 522137aaa9c4
   - 5b35833076f0
   - 5f39cff2a372
+  - 84697f4f6353
   - 8611b3f52a38
   - 9b6faa256f15
   - c51571d0a0b1
@@ -113,6 +116,7 @@ tools:
   - 4d81e3e2fb63
   - 61a6132df9e0
   - 64bbfa592868
+  - 7f26886839f1
   - 94d91334c787
   - b9906ce4756c
   - bedbda03c573
@@ -128,6 +132,7 @@ tools:
   - 470aed90aa41
   - 785dd890e27d
   - bba502278c25
+  - c5f23a5770e1
   - ccd6269fad60
   - e29894cdea47
   - ead8f1822587
@@ -143,6 +148,7 @@ tools:
   - 6fabdcde0214
   - 8334dc98c48e
   - a536d2736c2d
+  - b93fb28c785b
   - dd13740e8fdc
   - e88c782a127d
   - f96efab83b65
@@ -158,6 +164,7 @@ tools:
   - 6efb9bc6bf32
   - 948eca2af157
   - 980bf31faa05
+  - a2d7bdd4e705
   - af7ed4d45619
   - ce00f1cccb03
   - fb1fa391189e
@@ -178,12 +185,14 @@ tools:
   - 9160cb4069c2
   - 97dce66fe158
   - 9ddacd0b8c8b
+  - dc66f89ba2a2
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
   - 15bcf1a7543b
   - 25cc25ea10b8
   - 40e31fb88836
+  - 4cae0397fcdb
   - 55703205546f
   - 5621f2be9fbc
   - 5a21a631d2eb
@@ -208,6 +217,7 @@ tools:
   - 761269451e98
   - 826c3e68e7a9
   - 9e43ee712723
+  - a432f7a41307
   - a5c2ce4ea328
   - add3c3a7c2b4
   - b75cae00f980
@@ -218,6 +228,7 @@ tools:
   - 1bd039aca44f
   - 1d2bcebc8678
   - 237ae72d58a3
+  - 385a9ac83d56
   - 420a4bf99244
   - 5552eda109bd
   - 64b771b1471a
@@ -236,6 +247,7 @@ tools:
   - 060ca94ac049
   - 1682df52c084
   - 172365bc2b5f
+  - 2268fa04320d
   - 315f01a9d2c2
   - 3ab7af14f1b5
   - 407495139a09
@@ -251,6 +263,7 @@ tools:
   revisions:
   - 2ad4c2798be7
   - 30d21a6041f6
+  - 3489e5c15882
   - 5a125d1ac9b9
   - 5ae00d2908f2
   - 74de84506e74
@@ -270,6 +283,7 @@ tools:
   - 46b43ee6d367
   - 5276bdb49315
   - 5773e98921fc
+  - 83b406104228
   - 8a307b946c58
   - 96bb4c49e30e
   - a7c667ff83fe
@@ -286,6 +300,7 @@ tools:
   - 22e73afd5206
   - 4f243b0169db
   - 61fb99c55558
+  - 69f627250dea
   - c2a7717d96ce
   - cf54bae8ad42
   - e00c1c9d206b
@@ -307,6 +322,7 @@ tools:
   - c648d0716fb0
   - c9969328b42f
   - d4808d5b83da
+  - ddd7fc59ba59
   - f12dc92b6699
 - name: sklearn_label_encoder
   owner: bgruening
@@ -315,9 +331,11 @@ tools:
   - 2be90d2f29a7
   - 5e1581dfb419
   - 6c1c7a89d333
+  - f1a9ab7a1d88
 - name: sklearn_lightgbm
   owner: bgruening
   revisions:
+  - 029d8b61da32
   - 3045d322d4ac
   - 455ff9bec9b5
   - 74f96ebc5554
@@ -332,6 +350,7 @@ tools:
   - 17999807dc1b
   - 5dc03d8e137e
   - 734c66aa945a
+  - 79bfceddc2c4
   - 8861ece0b66f
   - 8f469d961e30
   - adb084b901cc
@@ -351,6 +370,7 @@ tools:
   - 95b04e086576
   - 9dc28a4b6ca8
   - a5aed87b2cc0
+  - b3cafb8519f8
   - caa3995d5f23
   - cf9aa11b91c8
   - de360b57a5ab
@@ -364,6 +384,7 @@ tools:
   - 39ae3c043096
   - 4db563e8d453
   - 699024d5c451
+  - 7f21c9e5656d
   - 823ecc0bce45
   - 8b1b2b91f8d0
   - 9871a634540f
@@ -384,6 +405,7 @@ tools:
   - 9ff214ce6ec2
   - abb5a3f256e3
   - aeca97d9a214
+  - dcbfe6ed593b
   - e10e776f2109
   - e13a7c05b3a4
   - e7f047a9dca9
@@ -393,6 +415,7 @@ tools:
   revisions:
   - 053e7f32d37e
   - 09bfbef3dd90
+  - 0a6b69524de2
   - 1682b64aad9e
   - 20b7295ae6e9
   - 26ae8c074d95
@@ -410,6 +433,7 @@ tools:
   revisions:
   - 03e0da430d44
   - 24c1cc2dd4a4
+  - 4a1addf7cc1e
   - 945a53c248de
   - c17f3eacdb14
   - caf164dd0e18
@@ -428,6 +452,7 @@ tools:
   - 64c87ceb6766
   - 6db5c1dfb076
   - 70c5a9127f99
+  - 9c8344681465
   - 9c8ede554b7c
   - a152c1d23379
   - b4ebe47701e4
@@ -440,6 +465,7 @@ tools:
   - 0f460421b212
   - 1fe020b2108f
   - 52ea044c667f
+  - 625a129225f7
   - 6b14fe097541
   - 7c2e71e4acf3
   - 97b467e06354
@@ -457,6 +483,7 @@ tools:
   - 1c4a241bef5c
   - 1ddf415cb349
   - 3d5b2491c62b
+  - 40ff7c1f393a
   - 586e68c83df2
   - 68753d45815f
   - 7626ea9c2e1b
@@ -485,6 +512,7 @@ tools:
   - 295c383c3282
   - 2df8f5c30edc
   - 6d23883e0b94
+  - 70f61a4de941
   - 73d2ef652879
   - 7d7379dfef8b
   - 80852884053f
@@ -503,6 +531,7 @@ tools:
   - a38de68880df
   - a4f18bbb4eca
   - caeb57858702
+  - de48a91cec04
   - f93f0cdbaf18
 - name: sklearn_train_test_eval
   owner: bgruening
@@ -516,6 +545,7 @@ tools:
   - adf9f8d5ab9a
   - caf7d2b71a48
   - cc49634df38f
+  - dd121e960a16
   - e23cfe4be9d4
   - f12383ee3234
   - f6ea9fc38223
@@ -530,6 +560,7 @@ tools:
   - 33c564caa3c4
   - 382b63d4744b
   - 5a092779412e
+  - 7e0efd4eb72f
   - a2e3cf2f9f40
   - b6f5443c4f58
 - name: tabpfn
@@ -626,6 +657,7 @@ tools:
   - 2a32d1d9c8da
   - 318484f56b6a
   - 6d1a9fae57eb
+  - 923fba89da05
   - 92e09b827300
   - 9f9cf31e3111
   - a2da4cebc584
@@ -639,12 +671,18 @@ tools:
   revisions:
   - 24dfd7800749
   - 59283a6c4f0a
+  - fcc5617c18e9
 - name: yolo_training
   owner: bgruening
   revisions:
+  - 25a2de34c05e
   - bdff5d51a756
   - ca14397c975d
 - name: rag_retriever
   owner: bgruening
   revisions:
   - 733bde6b986b
+- name: coco2labelme
+  owner: bgruening
+  revisions:
+  - 06a8da74643e
