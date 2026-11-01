@@ -21,6 +21,7 @@ tools:
   owner: bgruening
   revisions:
   - 3d71ab1562d7
+  - 7a299251aeb7
   - 891b330ffd94
   tool_panel_section_label: Convert Formats
 - name: graphicsmagick_image_convert
@@ -244,6 +245,7 @@ tools:
   - 291923e6f276
   - 3e4f8642c77e
   - 3ee0ef312022
+  - 53d3fd8fca8d
   - 643e0ff70be5
   - 8d4f03b5fe9d
   - cb8dfd28c16f
@@ -385,6 +387,7 @@ tools:
   owner: bgruening
   revisions:
   - 9d787305af35
+  - a3f2cd19d45e
   - e36affb1b853
   - e36c4b5d5cd9
   - e83d551e7b8c
@@ -450,6 +453,7 @@ tools:
   owner: fubar
   revisions:
   - 21bb464c1d53
+  - 329cd8314959
   - 49f3d3878413
   - 4aec47f872b3
   - 56f9a6e0fe80
@@ -1139,6 +1143,7 @@ tools:
 - name: flexynesis
   owner: bgruening
   revisions:
+  - 09749ea1dabd
   - 0bef7ea84b7f
   - 2134c3079055
   - 6eb6d8e78d06
@@ -1157,6 +1162,7 @@ tools:
   - 693011647a67
   - 9c320e113a6d
   - 9c949eca5d72
+  - e2e821fefc69
   - e6c626b3013b
   - e9a7cb5a3c63
   tool_panel_section_label: Machine Learning
@@ -1164,6 +1170,7 @@ tools:
   owner: bgruening
   revisions:
   - 7a1bae3c974a
+  - ef5e601d32bc
   - f4fa010a53dd
   tool_panel_section_label: Machine Learning
 - name: flexynesis_plot
@@ -1175,6 +1182,7 @@ tools:
   - 5f69690716cb
   - 91d550761220
   - a9d1fe48e1e6
+  - bd20c938f6c4
   tool_panel_section_label: Machine Learning
 - name: flexynesis_utils
   owner: bgruening
@@ -1184,6 +1192,7 @@ tools:
   - 88244f1bdfcf
   - 963b22bdf237
   - c348c91a487d
+  - efb526b25ff4
   - f73ce81f7795
   tool_panel_section_label: Machine Learning
 - name: chatgpt_openai_api
@@ -1219,6 +1228,7 @@ tools:
   revisions:
   - 17a8d7cc176b
   - 1da5c7994686
+  - 413d6d5a5de2
   - bcaf26934b58
   tool_panel_section_label: Machine Learning
 - name: black_forest_labs_flux
