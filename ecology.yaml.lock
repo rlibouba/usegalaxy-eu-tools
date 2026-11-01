@@ -210,7 +210,6 @@ tools:
 - name: collection_column_join
   owner: iuc
   revisions:
-  - 3ddd99c7efee
   - 4b00d89e8690
   tool_panel_section_label: Join, Subtract and Group
 - name: numeric_clustering
@@ -241,10 +240,8 @@ tools:
   - 02026300aa45
   - 13b6f0007d9e
   - 464b9305180e
-  - 61f9ddbc63ca
   - 6595517c2dd8
   - 6e8d94597139
-  - 9bc5cdefb090
   - 9cd341095afd
   - aff5135563c6
   - b6236eb1a50b
@@ -372,7 +369,6 @@ tools:
 - name: column_remove_by_header
   owner: iuc
   revisions:
-  - 2040e4c2750a
   - 372967836e98
   - 6428adb323eb
   tool_panel_section_label: Text Manipulation
@@ -621,7 +617,6 @@ tools:
   - 51c6ccaace7e
   - 53460afd5115
   - '566197475670'
-  - 6a097d09fca3
   - 94f3fd9ade04
   - ca7cb0eaad62
   tool_panel_section_label: Graph/Display Data
@@ -645,7 +640,6 @@ tools:
   - 355a82227003
   - 398e5104f8a2
   - 457ffc1c1c62
-  - 6b9816a913de
   - 6fc8bab811da
   - b0d96516e6a5
   - bf96015d2492
@@ -689,7 +683,6 @@ tools:
   - 4aa3666b66fa
   - 4ed102b922cb
   - 61461e52c923
-  - 70f61a4de941
   - 8797bedbba8e
   - b7c3e9a3b954
   - de94341feadb
@@ -700,7 +693,6 @@ tools:
   owner: bgruening
   revisions:
   - 04b160a26690
-  - 625a129225f7
   - 6cf2a66c46f1
   - 7068b5fcd623
   - 86a086d2bbed
@@ -717,7 +709,6 @@ tools:
   - 21d3e08b1a48
   - 301e07345c93
   - 36e8d6d5d01b
-  - 40ff7c1f393a
   - 5023535e9f8b
   - 69c44aab684e
   - 8eb081549c98
@@ -739,12 +730,10 @@ tools:
   - b1eda492f063
   - bc0117538945
   - bf5b6f5a18ed
-  - dc66f89ba2a2
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
   owner: bgruening
   revisions:
-  - 0a6b69524de2
   - 226524df8c6c
   - 23a37a52a899
   - 383d5372a90d
@@ -766,7 +755,6 @@ tools:
   - 531513ce17a5
   - 672327583f74
   - 7ae443e6217d
-  - 7f21c9e5656d
   - 900c42c3eef4
   - c030e4bb1b39
   - cd02bf168d23
@@ -785,7 +773,6 @@ tools:
   - 981a0328d6bb
   - ad7e0b4291ee
   - bb9fc9d46ea4
-  - dcbfe6ed593b
   tool_panel_section_label: Machine Learning
 - name: sklearn_ensemble
   owner: bgruening
@@ -793,7 +780,6 @@ tools:
   - 00f01f713c3c
   - 0b98933cf0f7
   - 0dd932943362
-  - 2268fa04320d
   - 360330a867f0
   - 398c7e90ded2
   - 53616c8b0865
@@ -810,7 +796,6 @@ tools:
   - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
-  - 83b406104228
   - 9e0e31bd8392
   - a79e439ac817
   - dd786bc16fdb
@@ -827,7 +812,6 @@ tools:
   - 80074b842ebd
   - 9452bddf21bd
   - 9ac0b78c6b6d
-  - a432f7a41307
   - dde13d557dc4
   - eb9da067ab26
   - f2234165a453
@@ -837,7 +821,6 @@ tools:
   revisions:
   - 048d7bd59326
   - 0ee984c1cbd6
-  - 4cae0397fcdb
   - 68afcd163b3d
   - 80ca74b1cb36
   - 85f43dfa9ad3
@@ -857,7 +840,6 @@ tools:
   - 7acb9b46c066
   - 7d98dfb04d27
   - 8ced2fac52f4
-  - 9c8344681465
   - c78a5fc9e758
   - dc17e2878dc1
   - f55053c4a5ec
@@ -867,7 +849,6 @@ tools:
   revisions:
   - 279cdd8d39e2
   - 2d032cff49eb
-  - 385a9ac83d56
   - 3e2921875c58
   - 4335cec181ba
   - 4ee087eeda62
@@ -889,7 +870,6 @@ tools:
   - bf32512b1418
   - d3fe6fcc6bf4
   - dc4b5fd604a6
-  - ddd7fc59ba59
   - fd703ccdab66
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_validation
@@ -902,7 +882,6 @@ tools:
   - 7e5631773cea
   - 845dfafac355
   - afa146d816e9
-  - b3cafb8519f8
   - bacc38e0a29e
   - be4f389a95d9
   - bfc7bdfcb423
@@ -917,7 +896,6 @@ tools:
   - 4efac966af2a
   - 602b5fb7ef09
   - 648b81bca7c5
-  - 923fba89da05
   - a1478b43a349
   - a84e6ffd3735
   - ecd247e1ea9c
@@ -1361,7 +1339,6 @@ tools:
   owner: iuc
   revisions:
   - 1bd61efeff47
-  - 40cde06ae34a
   tool_panel_section_label: RAD-seq
 - name: stacks_sstacks
   owner: iuc
@@ -1377,7 +1354,6 @@ tools:
 - name: stacks_genotypes
   owner: iuc
   revisions:
-  - 62a4b8e5e139
   - ccadf9b291cd
   tool_panel_section_label: RAD-seq
 - name: stacks_populations
@@ -1386,7 +1362,6 @@ tools:
   - 45db1ba16163
   - 95286af4139b
   - ac2d98d6ff8e
-  - d1fad35bdb4a
   - d504d945a655
   tool_panel_section_label: RAD-seq
 - name: stacks_sstacks
@@ -1399,30 +1374,25 @@ tools:
   owner: iuc
   revisions:
   - 33e11cb7d404
-  - 8479d9a67998
   tool_panel_section_label: RAD-seq
 - name: stacks_procrad
   owner: iuc
   revisions:
   - 343073e3b095
-  - eded025438db
   tool_panel_section_label: RAD-seq
 - name: stacks_refmap
   owner: iuc
   revisions:
   - 8b6f471264f0
-  - d7a482f44e08
   tool_panel_section_label: RAD-seq
 - name: stacks_clonefilter
   owner: iuc
   revisions:
-  - 60d86dc1b19d
   - 7bf2ace33b02
   tool_panel_section_label: RAD-seq
 - name: stacks_assembleperead
   owner: iuc
   revisions:
-  - 38ecfb8d52c6
   - bc108981ca68
   - fdbed68f179f
   tool_panel_section_label: RAD-seq
@@ -2003,7 +1973,6 @@ tools:
   - '310676858178'
   - 3cf052628373
   - 809f339deae2
-  - 9777101cccbc
   - e938172541c4
   - ed17a6e3db5e
   tool_panel_section_label: Computer Vision

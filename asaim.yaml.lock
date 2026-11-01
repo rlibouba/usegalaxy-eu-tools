@@ -19,7 +19,6 @@ tools:
   - 734abc7ac21d
   - 751a694ec620
   - 83c7d564b128
-  - 8848455c0270
   - aad3885b3216
   - b723c120161a
   - ba931a59dd59
@@ -188,7 +187,6 @@ tools:
   - 792acb18fb24
   - 98242353faa4
   - a96f3ad4e0d8
-  - ab208c87d973
   - de387b2b2803
   tool_panel_section_label: Assembly
 - name: metaspades
@@ -266,7 +264,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
-  - e9005d1f3cfd
+  - 7d01da0b9e18
   tool_panel_section_label: Metagenomic Analysis
 - name: kleborate
   owner: iuc

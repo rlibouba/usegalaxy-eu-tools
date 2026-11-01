@@ -206,7 +206,6 @@ tools:
 - name: collection_column_join
   owner: iuc
   revisions:
-  - 3ddd99c7efee
   - 4b00d89e8690
   tool_panel_section_label: Join, Subtract and Group
 - name: scatterplot
@@ -275,7 +274,6 @@ tools:
   - 51c6ccaace7e
   - 53460afd5115
   - '566197475670'
-  - 6a097d09fca3
   - 94f3fd9ade04
   - ca7cb0eaad62
   tool_panel_section_label: Graph/Display Data
@@ -299,7 +297,6 @@ tools:
   - 355a82227003
   - 398e5104f8a2
   - 457ffc1c1c62
-  - 6b9816a913de
   - 6fc8bab811da
   - b0d96516e6a5
   - bf96015d2492
